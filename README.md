@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 MERN CHAT APP
+=======
+# MERN-CHAT-APP
+>>>>>>> 7750043279ed67d8ee193b7b888ad42026e0891f
